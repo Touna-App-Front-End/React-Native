@@ -9,7 +9,10 @@
 - [ionicframework](http://ionicframework.com/)
 - [framework7](http://www.idangero.us/framework7)
 - [amazeui](http://amazeui.org/)
-- [React-Native指南](https://github.com/ele828/react-native-guide)
+- [React-Native指南](https://github.com/ele828/react-native-guide) (资料很全)
 - [如何评价 React Native？](http://www.zhihu.com/question/27852694/answer/38850201)
 - [React-微信支付-android](https://github.com/beefe/react-native-wechat-android)
 - [React-微信支付-iOS](https://github.com/beefe/react-native-wechat-ios)
+
+## 推荐书籍
+- [React Native入门与实战](http://item.jd.com/11844102.html) 京 东 价：￥59.00
