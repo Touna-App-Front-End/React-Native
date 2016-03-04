@@ -1,7 +1,5 @@
 # React-Native
 
-
-
 ## 参考链接
 
 - [移动WebApp开发 JS框架对比](http://zhangdaiping.iteye.com/blog/1613929)
@@ -16,3 +14,10 @@
 
 ## 推荐书籍
 - [React Native入门与实战](http://item.jd.com/11844102.html) 京 东 价：￥59.00
+
+# Flexbox 布局
+
+- [Flexbox——快速布局神器](http://www.w3cplus.com/css3/flexbox-basics.html)
+- [一个完整的Flexbox指南](http://www.w3cplus.com/css3/a-guide-to-flexbox.html)
+- [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+- [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
